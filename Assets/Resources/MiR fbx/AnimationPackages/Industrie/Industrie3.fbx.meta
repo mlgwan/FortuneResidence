@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: a2c662f2844194747a7230b329484e6b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder.001
+    100002: Cylinder.001_MeshPart0
+    100004: Cylinder.001_MeshPart1
+    100006: Cylinder.001_MeshPart2
+    100008: Cylinder.003
+    100010: Cylinder.003_MeshPart0
+    100012: Cylinder.003_MeshPart1
+    100014: Dach
+    100016: Haus
+    100018: //RootNode
+    100020: Innen
+    100022: Schornstein1
+    100024: Schornstein1_MeshPart0
+    100026: Schornstein1_MeshPart1
+    100028: Schornstein2
+    100030: Schornstein2_MeshPart0
+    100032: Schornstein2_MeshPart1
+    100034: Schornstein2_MeshPart2
+    400000: Cylinder.001
+    400002: Cylinder.001_MeshPart0
+    400004: Cylinder.001_MeshPart1
+    400006: Cylinder.001_MeshPart2
+    400008: Cylinder.003
+    400010: Cylinder.003_MeshPart0
+    400012: Cylinder.003_MeshPart1
+    400014: Dach
+    400016: Haus
+    400018: //RootNode
+    400020: Innen
+    400022: Schornstein1
+    400024: Schornstein1_MeshPart0
+    400026: Schornstein1_MeshPart1
+    400028: Schornstein2
+    400030: Schornstein2_MeshPart0
+    400032: Schornstein2_MeshPart1
+    400034: Schornstein2_MeshPart2
+    2300000: Cylinder.001_MeshPart0
+    2300002: Cylinder.001_MeshPart1
+    2300004: Cylinder.001_MeshPart2
+    2300006: Cylinder.003_MeshPart0
+    2300008: Cylinder.003_MeshPart1
+    2300010: Dach
+    2300012: Haus
+    2300014: Innen
+    2300016: Schornstein1_MeshPart0
+    2300018: Schornstein1_MeshPart1
+    2300020: Schornstein2_MeshPart0
+    2300022: Schornstein2_MeshPart1
+    2300024: Schornstein2_MeshPart2
+    3300000: Cylinder.001_MeshPart0
+    3300002: Cylinder.001_MeshPart1
+    3300004: Cylinder.001_MeshPart2
+    3300006: Cylinder.003_MeshPart0
+    3300008: Cylinder.003_MeshPart1
+    3300010: Dach
+    3300012: Haus
+    3300014: Innen
+    3300016: Schornstein1_MeshPart0
+    3300018: Schornstein1_MeshPart1
+    3300020: Schornstein2_MeshPart0
+    3300022: Schornstein2_MeshPart1
+    3300024: Schornstein2_MeshPart2
+    4300000: Schornstein2_MeshPart0
+    4300002: Schornstein2_MeshPart1
+    4300004: Schornstein2_MeshPart2
+    4300006: Cylinder.003_MeshPart0
+    4300008: Cylinder.003_MeshPart1
+    4300010: Schornstein1_MeshPart0
+    4300012: Schornstein1_MeshPart1
+    4300014: Cylinder.001_MeshPart0
+    4300016: Cylinder.001_MeshPart1
+    4300018: Cylinder.001_MeshPart2
+    4300020: Dach
+    4300022: Innen
+    4300024: Haus
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black schron
+    second: {fileID: 2100000, guid: 155f899665e32d94c987c11d25ff8ee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black window
+    second: {fileID: 2100000, guid: 3982b0914e93bad4ba24e64837cf3c0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey dack
+    second: {fileID: 2100000, guid: 380b8e3eb49aec54abb0984e856df049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redhouse
+    second: {fileID: 2100000, guid: 33a1cee14fc7f034db57dba27359b6cc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

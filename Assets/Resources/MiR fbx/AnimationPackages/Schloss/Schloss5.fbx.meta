@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: b7cddcf5d0dd667449c2740b0305a07b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cone
+    100002: Cone.001
+    100004: Cone.002
+    100006: Cone.003
+    100008: Cylinder.000
+    100010: Cylinder.001
+    100012: Cylinder.002
+    100014: Cylinder.003
+    100016: Dach
+    100018: Dach2
+    100020: Dach3
+    100022: Deckung1
+    100024: Deckung2
+    100026: Deckung3
+    100028: Deckung4
+    100030: Fenster11
+    100032: Fenster12
+    100034: Fenster13
+    100036: Fenster21
+    100038: Fenster22
+    100040: Fenster23
+    100042: Fenster31
+    100044: Fenster32
+    100046: Fenster33
+    100048: Grundstein
+    100050: //RootNode
+    100052: Turm
+    100054: Turm2
+    100056: Turm3
+    100058: Turm4
+    100060: "T\xFCr1"
+    100062: "T\xFCr2"
+    400000: Cone
+    400002: Cone.001
+    400004: Cone.002
+    400006: Cone.003
+    400008: Cylinder.000
+    400010: Cylinder.001
+    400012: Cylinder.002
+    400014: Cylinder.003
+    400016: Dach
+    400018: Dach2
+    400020: Dach3
+    400022: Deckung1
+    400024: Deckung2
+    400026: Deckung3
+    400028: Deckung4
+    400030: Fenster11
+    400032: Fenster12
+    400034: Fenster13
+    400036: Fenster21
+    400038: Fenster22
+    400040: Fenster23
+    400042: Fenster31
+    400044: Fenster32
+    400046: Fenster33
+    400048: Grundstein
+    400050: //RootNode
+    400052: Turm
+    400054: Turm2
+    400056: Turm3
+    400058: Turm4
+    400060: "T\xFCr1"
+    400062: "T\xFCr2"
+    2300000: Cone
+    2300002: Cone.001
+    2300004: Cone.002
+    2300006: Cone.003
+    2300008: Cylinder.000
+    2300010: Cylinder.001
+    2300012: Cylinder.002
+    2300014: Cylinder.003
+    2300016: Dach
+    2300018: Dach2
+    2300020: Dach3
+    2300022: Deckung1
+    2300024: Deckung2
+    2300026: Deckung3
+    2300028: Deckung4
+    2300030: Fenster11
+    2300032: Fenster12
+    2300034: Fenster13
+    2300036: Fenster21
+    2300038: Fenster22
+    2300040: Fenster23
+    2300042: Fenster31
+    2300044: Fenster32
+    2300046: Fenster33
+    2300048: Grundstein
+    2300050: Turm
+    2300052: Turm2
+    2300054: Turm3
+    2300056: Turm4
+    2300058: "T\xFCr1"
+    2300060: "T\xFCr2"
+    3300000: Cone
+    3300002: Cone.001
+    3300004: Cone.002
+    3300006: Cone.003
+    3300008: Cylinder.000
+    3300010: Cylinder.001
+    3300012: Cylinder.002
+    3300014: Cylinder.003
+    3300016: Dach
+    3300018: Dach2
+    3300020: Dach3
+    3300022: Deckung1
+    3300024: Deckung2
+    3300026: Deckung3
+    3300028: Deckung4
+    3300030: Fenster11
+    3300032: Fenster12
+    3300034: Fenster13
+    3300036: Fenster21
+    3300038: Fenster22
+    3300040: Fenster23
+    3300042: Fenster31
+    3300044: Fenster32
+    3300046: Fenster33
+    3300048: Grundstein
+    3300050: Turm
+    3300052: Turm2
+    3300054: Turm3
+    3300056: Turm4
+    3300058: "T\xFCr1"
+    3300060: "T\xFCr2"
+    4300000: Deckung1
+    4300002: Deckung4
+    4300004: Deckung3
+    4300006: Deckung2
+    4300008: Dach
+    4300010: Dach2
+    4300012: Dach3
+    4300014: "T\xFCr1"
+    4300016: "T\xFCr2"
+    4300018: Fenster11
+    4300020: Fenster31
+    4300022: Fenster33
+    4300024: Fenster32
+    4300026: Fenster21
+    4300028: Fenster23
+    4300030: Fenster22
+    4300032: Fenster13
+    4300034: Fenster12
+    4300036: Turm
+    4300038: Turm4
+    4300040: Cone.003
+    4300042: Cylinder.003
+    4300044: Turm3
+    4300046: Cylinder.002
+    4300048: Cone.002
+    4300050: Turm2
+    4300052: Cone.001
+    4300054: Cylinder.000
+    4300056: Cylinder.001
+    4300058: Cone
+    4300060: Grundstein
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dachmat
+    second: {fileID: 2100000, guid: 5e3590ce4af7e93408fb462f85143c1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fenster
+    second: {fileID: 2100000, guid: a20278a05ebe1724bbcc9f86c4bff747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grundmat1
+    second: {fileID: 2100000, guid: 02a7f3049d6c1cb4abcaf87bbb7574fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grundmat2
+    second: {fileID: 2100000, guid: 19a6ff28616580543b9c7be82d498666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Holz
+    second: {fileID: 2100000, guid: af3e404ced1818b45816a0543dcc2ac4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

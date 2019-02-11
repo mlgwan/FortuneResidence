@@ -1,9 +1,12 @@
 # FortuneResidence
 AR-Unity Projected, realised through Vuforia
+
 Authors: Ciwan Clifford, Clara Brückner
 
 Unity Version: 2018.2.14f1
+
 Vuforia Version: 7.5.20
+
 
 Fortune Residence ist eine Mixed Reality Anwendung, die für Android Smartphones entwickelt wurde. Dabei wird eine Samsung Gear VR oder ein einfaches Cardboard empfohlen. Der Nutzer schaut über die Kamera des Smartphones. 
 Für Fortune Residence wird ein spezieller Würfel benutzt, der auf jeder Seite einen anderen Marker aufgemalt bekommen hat, und ein weiterer Marker, der als Grundfläche gesehen wird.

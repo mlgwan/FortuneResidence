@@ -45,7 +45,7 @@ public class Spinner : MonoBehaviour
     {
 
 
-            if (startField == 0f)                                          // Hier wird geprüft, auf welchem Feld das Rad gelandet ist
+            if (startField == 0f)                                          // Hier wird geprüft, auf welchem Feld das Rad gelandet ist und die dazugehörige Animation abgespielt
             {
                 residence.GetComponent<ShowResidence>().vulkanDestroy();
             }
@@ -87,13 +87,13 @@ public class Spinner : MonoBehaviour
             started = false;
             startField = endField % 360;
 
-            playDestructionAnimation();
+            playDestructionAnimation();                                 // Sobald das Rad fertig mit Drehen ist, wird die Zerstörungsanimation ausgewählt
        
         }
         float deltaT = currLerpRotationTime / maxLerpRotationTime;
         deltaT = deltaT * deltaT * deltaT * (deltaT * (6.0f * deltaT - 15.0f) + 10.0f);
         float angle = Mathf.Lerp(startField, endField, deltaT);
-        Circle.transform.localEulerAngles = new Vector3(0,0,angle);
+        Circle.transform.localEulerAngles = new Vector3(0,0,angle);     // Hier erfolgt die Drehanimation
 
     }
 }

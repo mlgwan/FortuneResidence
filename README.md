@@ -1,5 +1,5 @@
 # FortuneResidence
-AR-Unity Projected powered by Vuforia
+AR-Unity Application powered by Vuforia
 
 Authors: Ciwan Clifford, Clara Brückner
 
